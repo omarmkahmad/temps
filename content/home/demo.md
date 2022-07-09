@@ -8,7 +8,7 @@ headless: true
 weight: 15
 title: Tissue Engineering and Microphysiological Systems Lab
 subtitle: ""
-active: false
+active: true
 design:
   columns: "1"
   background:
