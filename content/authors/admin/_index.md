@@ -1,8 +1,6 @@
 ---
 title: Mark J. Mondrinos
 role: Principal Investigator, Assistant Professor of Biomedical Engineering
-bio: ""
-interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -15,7 +13,7 @@ social:
     link: https://www.linkedin.com/in/markmondrinos
 organizations:
   - name: Tulane University
-    url: ""
+    url: "https://sse.tulane.edu/bme/faculty/mark-mondrinos"
 education:
   courses:
     - course: Post Doctoral Fellowship
@@ -35,5 +33,3 @@ highlight_name: true
 Mark Mondrinos Bio.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-// {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
